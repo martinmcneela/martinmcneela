@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **martinmcneela/martinmcneela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,3 +34,7 @@ Here are some ideas to get you started:
 [![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinmcneela&hide=stars&count_private=true&show_icons=true&bg_color=312d3b&title_color=ffc600&text_color=ffc600&icon_color=ffc600&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinmcneela&layout=compact&bg_color=312d3b&title_color=ffc600&text_color=ffc600&icon_color=ffc600)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🙈 Other
+
+[![Martin McNeela StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=960514&layout=compact&theme=dark)](https://stackoverflow.com/users/960514/mcneela86)
